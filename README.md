@@ -1,6 +1,6 @@
 # Eduvos Mbombela — Academic Support & Tutoring Platform
 
-A full-featured React frontend for the Eduvos Mbombela academic tutoring platform, built to connect seamlessly with a Django REST Framework backend.
+A full-featured React frontend for the Eduvos Mbombela academic tutoring platform.
 
 ---
 
